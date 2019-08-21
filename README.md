@@ -10,7 +10,7 @@
 
 This repository houses the [cryptodoggies.store](http://cryptodoggies.store)'s smart contract system. It has been built using Ethereum smart contracts.
 
-This DApp was written as part of my Introduction to DApp development course available at [http://learn.cryptodoggies.store](http://learn.cryptodoggies.store)
+This DApp was written as part of Nathan Glover's Introduction to DApp development course available at [http://learn.cryptodoggies.store](http://learn.cryptodoggies.store)
 
 ## Developing This Contract
 
